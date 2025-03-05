@@ -13,10 +13,12 @@ I'm an incoming M.Phil student in Mathematics at the university of Cambridge, su
 
 ## Education						       		
 - M.Phil., Mathematics	| University of Cambridge (_October 2025 - October 2026_)
-- B.Sc., Mathematics | University of Warwick (_October 2024 - July 2025_)      		
+
+- B.Sc., Mathematics | University of Warwick (_October 2024 - July 2025_)      
+
 - B.Sc., Mathematics | University of Seville (_October 2021 - July 2024_)
 
 ## Work in progress / incoming
-**. Research Assistant @ Aalto Science Institute (_Jul 2025 - Oct 2025_)** 
+**- Research Assistant @ Aalto Science Institute (_Jul 2025 - Oct 2025_)** 
 
-**. Student Researcher @ University of Seville (_Oct 2024 - Jul 2025_)**
+**- Student Researcher @ University of Seville (_Oct 2024 - Jul 2025_)**
