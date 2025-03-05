@@ -8,18 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-# Research ¶
+# Research 
+I'm an incoming M.Phil student in Mathematics at the university of Cambridge, supervised by <a href="https://www.statslab.cam.ac.uk/~sb2116/">Sergio Bacallado de Lara</a>. My research here will focous on Amortized Bayesian Inference. This next summer I will be working as a Research Assistant at Aalto Science Instituteunder the supervision of <a href="https://www.mit.edu/~vgarg/">Vikas K. Garg</a> where we will be delving into Feature Selection using Quiver Representations. At the moment I'm also a Student Researcher in this same area under the supervision of <a href="https://personal.us.es/epaluzo/">Eduardo Paluzo</a> at the University of Seville, where I was awarded a collaboration grant by the Goverment of Spain. Currently I'm finishing my degree at the University of Wariwck under the supervision of <a href="https://www.linkedin.com/in/martin-lotz-bab23ba/?originalSubdomain=uk">Martin Lotz</a> thanks to an Erasmus grant.
 
-I am interested in the development of emulators of climate models that support efforts to make climate change projections more accessible, improve uncertainty quantification on impacts, and reduce the computational cost of climate modelling.
+## Education						       		
+- M.Phil., Mathematics	| University of Cambridge (_October 2025 - October 2026_)
+- B.Sc., Mathematics | University of Warwick (_October 2024 - July 2025_)      		
+- B.Sc., Mathematics | University of Seville (_October 2021 - July 2024_)
 
-I am currently a postdoctoral associate at [EAPS](https://eaps.mit.edu/) working with [Noelle Selin](https://www.selingroup.org/noelle-eckley-selin) and [Raffaele Ferrari](http://ferrari.mit.edu/) as part of the [BC3 MIT Climate Grand Challenge](https://bc3.mit.edu/). I completed my PhD from the [Department of Statistics](https://www.stats.ox.ac.uk/) at the University of Oxford, supervised by [Dino Sejdinovic](https://sejdino.github.io/) as part of the [iMiracli](https://imiracli.web.ox.ac.uk/) innovative training network of aerosols-cloud interactions and machine learning.
+## Work in progress / incoming
+**. Research Assistant @ Aalto Science Institute (_Jul 2025 - Oct 2025_)** 
 
-
-
-
-# Nechfate ¶
-
-I am also a co-founder of [Nechfate](https://nechfate.ma/) [neʃfɛt], an online media that popularizes climate change, its impacts, and adaptation solutions in Morocco. For non-Arabic speakers, Nechfate refers initially to an aridification but also means a deterioration of economic conditions.
-
-
-Through short, illustrated, and data-driven articles, our goal is to inform readers about Morocco's challenges in terms of Climate Change, Water & Agriculture, and Governance & Societ️y. Come check us out on [Instagram](https://www.instagram.com/nechfate/) and [Linkedin](https://www.linkedin.com/company/91686859/).
+**. Student Researcher @ University of Seville (_Oct 2024 - Jul 2025_)**
