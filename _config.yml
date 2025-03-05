@@ -6,7 +6,6 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-<meta name="google-site-verification" content="-8vUr2bKkwNKdQGWnUcQgXU-ERdWuSBnVjGp57pRFLM" />
 locale                   : "en-US"
 title                    : "Fernando Ruiz Mazo"
 title_separator          : "-"
