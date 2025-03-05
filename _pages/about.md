@@ -13,9 +13,7 @@ I'm an incoming M.Phil student in Mathematics at the university of Cambridge, su
 
 ## Education						       		
 -M.Phil., Mathematics	| University of Cambridge (_October 2025 - October 2026_)
-
 -B.Sc., Mathematics | University of Warwick (_October 2024 - July 2025_)     
-
 -B.Sc., Mathematics | University of Seville (_October 2021 - July 2024_)
 
 ## Work in progress / incoming
