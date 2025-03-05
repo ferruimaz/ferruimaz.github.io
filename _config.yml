@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Fernando Ruiz Mazo"
   avatar           : "JPEG image-FBB381AE31D3-1.jpeg"
-  bio              : "Postdoctoral associate at MIT EAPS"
+  bio              : "Incoming Mathematics MPhil at University of Cambridge"
   location         :
   employer         :
   pubmed           :
-  googlescholar    : "https://scholar.google.com/citations?user=bK-xIMcAAAAJ&hl=en&oi=ao"
+  googlescholar    : #"https://scholar.google.com/citations?user=bK-xIMcAAAAJ&hl=en&oi=ao"
   email            : "fruizmazo[at]gmail[dot]com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
