@@ -1,0 +1,127 @@
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Fernando Ruiz Mazo
+    - name: Email
+      value: fruizmazo@gmail.com
+    - name: Phone
+      value: +34 619 51 21 47
+    - name: LinkedIn
+      value: <a href="https://linkedin.com/in/fernando-ruiz-mazo-80700321a">fernando-ruiz-mazo</a>
+    - name: GitHub
+      value: <a href="https://github.com/ferruimaz">ferruimaz</a>
+    - name: Languages
+      value: Spanish (native), English (fluent)
+
+- title: Education
+  type: time_table
+  contents:
+    - title: MPhil in Mathematics
+      institution: University of Cambridge, Cambridge, UK
+      year: 2025 - 2026
+      description:
+        - La Caixa Postgraduate Fellowship recipient
+        - Research focus on Amortized Bayesian Inference and Neural Processes
+    - title: BSc in Mathematics
+      institution: University of Warwick, Coventry, UK
+      year: 2024 - 2025
+      description:
+        - First Class degree (expected)
+        - Erasmus and Santander Scholar
+    - title: BSc in Mathematics
+      institution: Universidad de Sevilla, Seville, Spain
+      year: 2021 - 2024
+      description:
+        - Final Average: 9.33/10
+        - 26/30 modules passed with honors
+
+- title: Experience
+  type: time_table
+  contents:
+    - title: Researcher in Amortized Bayesian Inference
+      institution: University of Cambridge, Magdalene College, Cambridge, UK
+      year: 2025 - 2026
+      description:
+        - Conducting research under Prof. Sergio Bacallado on scalable and amortized Bayesian inference frameworks
+        - Emphasis on Neural Processes and meta-learning applications
+        - Designing robust posterior estimation algorithms
+    - title: Research Assistant
+      institution: Aalto Science Institute, Helsinki, Finland
+      year: Jul 2025 - Oct 2025
+      description:
+        - Selected from more than 1700 international applicants
+        - Collaborating with Dr. Vikas Garg on Post-Bayesian methods for Neural Processes
+        - Advanced machine learning research fellowship
+    - title: MEFP Research Scholar
+      institution: Universidad de Sevilla, Seville, Spain
+      year: Sep 2024 - Jul 2025
+      description:
+        - National merit-based research fellowship from Spanish Ministry of Education
+        - Working on unified mathematical framework for feature selection using quiver representations
+
+- title: Projects
+  type: time_table
+  contents:
+    - title: AI Course Project
+      institution: University of Oxford, Lady Margaret Hall, Oxford, UK
+      year: Jul 2023 - Aug 2023
+      description:
+        - Built time-series forecasting models in Python for mean-reversion signals and trend analysis
+        - Applied convolutional neural networks to detect spatiotemporal patterns in financial sequences
+        - Used regression and neural network architectures for predictive modeling
+
+- title: Grants and Awards
+  type: time_table
+  contents:
+    - title: La Caixa Postgraduate Fellowship
+      institution: University of Cambridge, Cambridge, UK
+      year: 2025 - 2026
+      description:
+        - Selected as one of 100 awardees from more than 1,500 applicants (<7% acceptance rate)
+        - Full tuition coverage plus £22,750 annual stipend
+        - Lifelong membership in international la Caixa Fellows network
+    - title: MEFP Research Fellowship
+      institution: Spanish Ministry of Education
+      year: 2024 - 2025
+      description:
+        - National merit-based research fellowship
+    - title: Erasmus and Santander Scholarship
+      institution: University of Warwick
+      year: 2024 - 2025
+      description:
+        - International mobility scholarship for academic excellence
+
+- title: Technical Skills
+  type: nested_list
+  contents:
+    - title: Programming Languages
+      items:
+        - Python (advanced)
+        - R (intermediate)
+        - MATLAB (intermediate)
+        - Haskell (beginner)
+        - LaTeX (advanced)
+    - title: Machine Learning Libraries
+      items:
+        - TensorFlow
+        - PyTorch
+        - Keras
+        - Pandas
+        - Scikit-learn
+        - NumPy
+        - SciPy
+    - title: Research Areas
+      items:
+        - Amortized Bayesian Inference
+        - Neural Processes
+        - Post-Bayesian Methods
+        - Feature Selection
+        - Meta-Learning
+
+- title: Research Interests
+  type: list
+  contents:
+    - <u>Primary:</u> Amortized Bayesian Inference, Neural Processes, Meta-Learning
+    - <u>Secondary:</u> Feature Selection, Quiver Representations, Mathematical Optimization
+    - <u>Applications:</u> Time-series Forecasting, Financial Modeling, Reproducible Research

@@ -1,0 +1,135 @@
+\documentclass[letterpaper,11pt]{article}
+
+\usepackage{latexsym}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage[hidelinks]{hyperref}
+\usepackage{fancyhdr}
+\usepackage[english]{babel}
+\usepackage{tabularx}
+\input{glyphtounicode}
+
+\pagestyle{fancy}
+\fancyhf{}
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+\addtolength{\oddsidemargin}{-0.5in}
+\addtolength{\evensidemargin}{-0.5in}
+\addtolength{\textwidth}{1in}
+\addtolength{\topmargin}{-.5in}
+\addtolength{\textheight}{1.0in}
+
+\urlstyle{same}
+
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
+
+\titleformat{\section}{\vspace{-4pt}\scshape\raggedright\large}{}{0em}{}[\color{black}\titlerule \vspace{-5pt}]
+
+\pdfgentounicode=1
+
+\newcommand{\resumeItem}[1]{\item\small{#1 \vspace{-2pt}}}
+\newcommand{\resumeSubheading}[4]{\vspace{-2pt}\item
+  \begin{tabular*}{0.97\textwidth}[t]{l@{\extracolsep{\fill}}r}
+    \textbf{#1} & #2 \\
+    \textit{\small#3} & \textit{\small #4} \\
+  \end{tabular*}\vspace{-7pt}}
+\newcommand{\resumeItemListStart}{\begin{itemize}}
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=0.15in, label={}]}
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
+
+\begin{document}
+
+%----------HEADING----------
+\begin{center}
+  \textbf{\Huge \scshape Fernando Ruiz Mazo} \\ \vspace{1pt}
+  \small +34 619 51 21 47 $|$ \href{mailto:fruizmazo@gmail.com}{fruizmazo@gmail.com} $|$ 
+  \href{https://linkedin.com/in/fernando-ruiz-mazo-80700321a}{linkedin.com/in/fernando-ruiz-mazo} $|$
+  \href{https://github.com/ferruimaz}{github.com/ferruimaz}
+\end{center}
+
+%-----------EDUCATION-----------
+\section{Education}
+  \resumeSubHeadingListStart
+    \resumeSubheading
+      {University of Cambridge}{Cambridge, UK}
+      {MPhil in Mathematics, (La Caixa Postgraduate Fellowship)}{Oct 2025 -- Oct 2026}
+    \resumeSubheading
+      {University of Warwick}{Coventry, UK}
+      {BSc in Mathematics, Fist Class (Erasmus and Santander Scholar)}{Sep 2024 -- Jun 2025}
+    \resumeSubheading
+      {Universidad de Sevilla}{Seville, Spain}
+      {BSc in Mathematics, Final Average: 9.33 / 10 (26/30 modules passed with honors)}{Sep 2021 -- Jun 2024}
+  \resumeSubHeadingListEnd
+
+%-----------EXPERIENCE-----------
+\section{Experience}
+  \resumeSubHeadingListStart
+    \resumeSubheading
+      {Researcher in Amortized Bayesian Inference}{Cambridge, UK}
+      {University of Cambridge, Magdalene College}{Oct 2025 -- Oct 2026}
+      \resumeItemListStart
+        \resumeItem{Conducting research under Prof. Sergio Bacallado on scalable and amortized Bayesian inference frameworks, with emphasis on Neural Processes.}
+        \resumeItem{Designing robust posterior estimation algorithms that generalize across tasks in meta-learning.}
+      \resumeItemListEnd
+
+    \resumeSubheading
+      {Research Assistant}{Helsinki, Finland}
+      {Aalto Science Institute}{Jul 2025 -- Oct 2025}
+      \resumeItemListStart
+        \resumeItem{Selected from more than 1700 international applicants for advanced machine learning research.}
+        \resumeItem{Collaborating with Dr. Vikas Garg on Post-Bayesian methods for creating more robust Neural Processes.}
+      \resumeItemListEnd
+
+    \resumeSubheading
+      {MEFP Research Scholar}{Seville, Spain (Hybrid)}
+      {Universidad de Sevilla}{Sept 2024 -- Jul 2025}
+      \resumeItemListStart
+        \resumeItem{Received national merit-based research fellowship from Spanish Ministry of Education.}
+        \resumeItem{Worked on a unified mathematical framework for feature selection using quiver representations.}
+      \resumeItemListEnd
+  \resumeSubHeadingListEnd
+
+%-----------PROJECTS-----------
+\section{Projects}
+  \resumeSubHeadingListStart
+    \resumeSubheading
+      {Artificial Intelligence Course Project}{Oxford, UK}
+      {University of Oxford, Lady Margaret Hall }{Jul 2023 - Aug 2023}
+      \resumeItemListStart
+        \resumeItem{Built time-series forecasting models in Python for mean-reversion signals and trend analysis using regression and neural networks.}
+        \resumeItem{Applied convolutional neural network architectures to detect spatiotemporal patterns in simulated financial sequences.}
+      \resumeItemListEnd
+  \resumeSubHeadingListEnd
+
+%-----------PROJECTS-----------
+\section{Grants}
+  \resumeSubHeadingListStart
+    \resumeSubheading
+      {La Caixa Postgraduate Fellowship}{Cambridge, UK}
+      {University of Cambridge}{Oct 2025 -- Oct 2026}
+      \resumeItemListStart
+        \resumeItem{Selected as one of 100 awardees from more than 1\,500 applicants ($<7\%$ acceptance); fellowship covers full tuition at the University of Cambridge and provides an extra £22,750 annual stipend.}
+        \resumeItem{Finances my MPhil in Mathematics and confers lifelong membership in the international \textit{la~Caixa Fellows} network.}
+      \resumeItemListEnd
+  \resumeSubHeadingListEnd
+
+%-----------TECHNICAL SKILLS-----------
+\section{Technical Skills}
+\begin{itemize}[leftmargin=0.15in, label={}]
+  \small{\item{
+     \textbf{Languages}{: Python, R, MATLAB, Haskell, LaTeX} \\
+     \textbf{Libraries}{: TensorFlow, PyTorch, Keras, Pandas, Scikit-learn, NumPy, SciPy} \\
+     \textbf{Tools}{: Jupyter, reproducible research workflows}
+  }}
+\end{itemize}
+
+\end{document}
