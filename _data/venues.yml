@@ -1,9 +1,7 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+# Publication venues and conference abbreviations
+# This file will be populated when publications become available
 
-"PhysRev":
-  url: https://journals.aps.org/
-
-"Vision":
-  color: "#009f36"
+# Example format:
+# "ConferenceAbbr":
+#   color: primary
+#   url: https://conference-website.com

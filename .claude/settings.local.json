@@ -3,7 +3,9 @@
     "allow": [
       "Bash(sips:*)",
       "Bash(ls:*)",
-      "Bash(rm:*)"
+      "Bash(rm:*)",
+      "Bash(mkdir:*)",
+      "Bash(find:*)"
     ],
     "deny": []
   }
