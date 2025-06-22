@@ -13,6 +13,7 @@ This project was developed during my Artificial Intelligence course at the Unive
 ## Project Overview
 
 The main objectives were to:
+
 - Build robust time-series forecasting models for mean-reversion signals
 - Develop trend analysis algorithms using regression and neural networks
 - Apply convolutional neural network architectures to detect spatiotemporal patterns
@@ -20,11 +21,13 @@ The main objectives were to:
 ## Technical Implementation
 
 ### Models Developed
+
 - **Regression-based forecasting models** for baseline trend detection
 - **Neural network architectures** for complex pattern recognition
 - **Convolutional Neural Networks (CNNs)** for spatiotemporal pattern detection in financial sequences
 
 ### Key Features
+
 - Python-based implementation using standard ML libraries
 - Focus on mean-reversion signal detection in simulated financial data
 - Integration of multiple modeling approaches for robust prediction

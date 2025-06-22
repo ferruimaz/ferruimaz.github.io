@@ -5,7 +5,11 @@
       "Bash(ls:*)",
       "Bash(rm:*)",
       "Bash(mkdir:*)",
-      "Bash(find:*)"
+      "Bash(find:*)",
+      "Bash(git push:*)",
+      "Bash(npx prettier:*)",
+      "Bash(npm install)",
+      "Bash(git add:*)"
     ],
     "deny": []
   }
