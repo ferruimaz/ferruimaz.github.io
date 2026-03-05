@@ -1,10 +1,29 @@
 papers:
 
-  - title: "Community Notes Moderate Engagement With and Diffusion of False Information Online"
+  - title: "Reranking Social Media Feeds: A Practical Guide for Field Experiments"
+    authors: "Tiziano Piccardi<sup>‡</sup>, <b>Martin Saveski<sup>‡</sup></b>, Chenyan Jia<sup>‡</sup>, Jeffrey Hancock, Jeanne L Tsai, Michael S Bernstein"
+    venue: "TSC'26: ACM Transactions on Social Computing, 2026."
+    paper_pdf: "https://doi.org/10.1145/3800557"
+    code: "https://github.com/StanfordHCI/FeedMonitor"
+    selected: n
+
+  - title: "Reranking Partisan Animosity in Algorithmic Social Media Feeds Alters Affective Polarization"
+    authors: "Tiziano Piccardi<sup>‡</sup>, <b>Martin Saveski<sup>‡</sup></b>, Chenyan Jia<sup>‡</sup>, Jeffrey Hancock, Jeanne Tsai, Michael Bernstein"
+    venue: "Science, 2025."
+    paper_pdf: "https://www.science.org/stoken/author-tokens/ST-3086/full"
+    selected: y
+
+  - title: "Community Notes Reduce Engagement With and Diffusion of False Information Online"
     authors: "Isaac Slaughter, Axel Peytavin, Johan Ugander, <b>Martin Saveski</b>"
-    venue: "Arxiv'25: arXiv preprint. 2025."
+    venue: "PNAS'25: Proceedings of the National Academies of Science. 2025."
     paper_pdf: "/assets/publications/2025_cn_causal_effects/paper.pdf"
     selected: y
+
+  - title: "Scaling Human Judgment in Community Notes with LLMs"
+    authors: "Haiwen Li, Soham De, Manon Revel, Andreas Haupt, Brad Miller, Keith Coleman, Jay Baxter, <b>Martin Saveski</b>, and Michiel Bakker"
+    venue: "JOTS'25: Journal of Online Trust and Safety. 2025"
+    paper_pdf: "https://tsjournal.org/index.php/jots/article/view/255/91"
+    selected: n
 
   - title: "Supernotes: Driving Consensus in Crowd-Sourced Fact-Checking"
     authors: "Soham De, Michiel A. Bakker, Jay Baxter, <b>Martin Saveski</b>"
@@ -13,18 +32,6 @@ papers:
     code: "https://github.com/saveski-lab/supernotes"
     selected: y
 
-  - title: "Social Media Algorithms Can Shape Affective Polarization via Exposure to Antidemocratic Attitudes and Partisan Animosity"
-    authors: "Tiziano Piccardi<sup>‡</sup>, <b>Martin Saveski<sup>‡</sup></b>, Chenyan Jia<sup>‡</sup>, Jeffrey Hancock, Jeanne Tsai, Michael Bernstein"
-    venue: "Arxiv'24: arXiv preprint. 2024."
-    paper_pdf: "/assets/publications/2024_feedwizard_exp/paper.pdf"
-    selected: y
-
-  - title: "Reranking Social Media Feeds: A Practical Guide for Field Experiments"
-    authors: "Tiziano Piccardi<sup>‡</sup>, <b>Martin Saveski<sup>‡</sup></b>, Chenyan Jia<sup>‡</sup>, Jeffrey Hancock, Jeanne L Tsai, Michael S Bernstein"
-    venue: "Arxiv'24: arXiv preprint. 2024."
-    paper_pdf: "/assets/publications/2024_feedwizard_method/paper.pdf"
-    code: "https://github.com/StanfordHCI/FeedMonitor"
-    selected: y
 
   - title: "Off-policy Evaluation Beyond Overlap: Sharp Partial Identification Under Smoothness"
     authors: "Samir Khan, <b>Martin Saveski</b>, Johan Ugander"
