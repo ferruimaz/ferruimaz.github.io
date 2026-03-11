@@ -4,4 +4,5 @@ papers:
     authors: "<b>Fernando Ruiz Mazo</b>, Vikas Garg"
     venue: "ICLR 2026"
     paper_pdf: "https://openreview.net/forum?id=3FCHmUPmhe"
+    code: "https://github.com/ferruimaz/frozen_priors_fluid_forecasts"
     selected: y
